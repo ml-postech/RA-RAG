@@ -43,3 +43,8 @@ If you find RA-RAG useful or use RA-RAG in your research, please cite it in your
   year={2025}
 }
 ```
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+The code in `Alignscore/` is adapted from [AlignScore](https://github.com/yuh-zha/AlignScore), which is also released under the MIT License.
